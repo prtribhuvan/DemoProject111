@@ -9,9 +9,10 @@ public class Calculate {
 	int a = 30 ;
 	int b = 3 ;
 	
-	int c = a*b ;
+	int c = a-b;
 	
 	System.out.println(c);
+	System.out.println("successfully changed");
 
 }
 }
