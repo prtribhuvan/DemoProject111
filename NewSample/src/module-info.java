@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author palla
+ *
+ */
+module NewSample {
+}
